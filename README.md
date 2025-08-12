@@ -14,7 +14,7 @@ Red Book manages, researches, develops living variation by suitable methods.
 
 ![image.png](image.png)
 
-[back to git projects …](https://github.com/vietphan1995/projects)
+### [back to git projects …](https://github.com/vietphan1995/projects)
 
 ### Notes
-https://phantrungviet.notion.site/Red-book-1b25e832d6ee800db634f65a37e7a199
+https://phantrungviet.notion.site/red-book-1b25e832d6ee800db634f65a37e7a199
